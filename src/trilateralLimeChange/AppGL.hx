@@ -18,6 +18,7 @@ import trilateral3.drawing.Pen;
 import trilateral3.geom.FlatColorTriangles;
 import trilateral3.nodule.PenNodule;
 
+import lime.graphics.opengl.GLBuffer;
 
 class AppGL{
     var program: GLProgram;
